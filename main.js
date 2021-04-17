@@ -1,7 +1,7 @@
 //引入图片
 import img from "./img.jpg"
 //引入样式
-import "./main.scss"
+// import "./main.scss"
 const image = new Image();
 image.classList.add("img");
 document.body.appendChild(image);
